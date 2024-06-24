@@ -62,3 +62,8 @@ Outputs:
   three componenets of risk (exposure, vulnerability, hazard) in explaining variation in risk
 
 Please refer to descriptions at the top of each R script for more details, including directions to run each script.
+
+### Full_outputs: contains 3 outputs from the full analysis of 112 species:
+1. MSMC_est_fullanalysis.csv: multispecies connectivity estimates and associated uncertainties (if relevant; for connections with >1 species)
+2. Risk_components_fullanalysis.csv: estimates of risk and its components for all 921 connections
+3. Studysp_groups_fullanalysis.csv: species associated with each connection (group) for the full analysis
