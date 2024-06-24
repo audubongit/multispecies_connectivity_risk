@@ -48,7 +48,7 @@ Outputs:
 ### File 2: "2_MSMCrisk_ex.R" 
 
 Data inputs located in the following folders (species connectivity results, vulnerability data, hazard data): 
-  Connectivity_data_ExSp
+  Connectivity_data_ExSp,
   VulHaz_data
 
 Outputs: 
