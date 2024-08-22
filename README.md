@@ -1,7 +1,7 @@
 # multispecies_connectivity_risk
-Analyses associated with "Multispecies migratory connectivity reveals hemispheric risk to birds"
+Analyses associated with "Multispecies migratory connectivity indicates hemispheric-scale risk to birds"
 
-# Code for Multispecies migratory connectivity reveals hemispheric risk to birds
+# Code for Multispecies migratory connectivity indicates hemispheric-scale risk to birds
 
 ## Authors
 
@@ -18,12 +18,12 @@ Year of Version: 2024
 
 Version: 1.0.0
 
-Digital Object Identifier (DOI): https://doi.org/xxxx
+Digital Object Identifier (DOI): 10.5281/zenodo.13361404
 
 ## Suggested Citation
 Saunders, S., DeLuca, W., Bateman, B., Depe, J., Grand, J., Knight, E., Meehan, T., Michel, N., Seavy, N., Smith, M.,
-Taylor, L., Witko, C., and Wilsey, C. Code for multispecies migratory connectivity reveals hemispheric risk to birds. 
-Version 1.0.0; National Audubon Society. https://doi.org/xxxx
+Taylor, L., Witko, C., and Wilsey, C. Code for multispecies migratory connectivity indicates hemispheric-scale risk to birds. 
+Version 1.0.0; National Audubon Society. doi: 10.5281/zenodo.13361404
 
 ## Abstract 
 
