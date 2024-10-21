@@ -24,7 +24,9 @@
 # from the first script in this workflow (MC_ex.R). Note that 5 species results are provided for
 # this example, but due to data restrictions, only raw data for bkpwar are provided as an example 
 # to run the first script. Thus, only the bkpwar file (_MigConnect_Results.csv) can be reproduced
-# from the MC_ex code. The other 4 species results files are shared here with permission.
+# from the MC_ex code. The other 4 species results files are shared here with permission (results
+# reproduced from Meehan et al. 2022 Ecological Applications; please refer to this paper for more
+# details on data holders and species-specific datasets).
 # For more details on data sharing, please see the Data Availability statement. 
 # Note that outputs from the full analysis of 112 species are
 # also available on GitHub and Zenodo (see Data Availability statement for links).
